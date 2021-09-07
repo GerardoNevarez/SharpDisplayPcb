@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SharpDisplayPcb)(type Legacy)(uri ${KIPRJMOD}/SharpDisplayPcb.lib)(options "")(descr ""))
+  (lib (name SharpDisplayPcb-rescue)(type Legacy)(uri ${KIPRJMOD}/SharpDisplayPcb-rescue.lib)(options "")(descr ""))
+)
