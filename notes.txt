@@ -1,0 +1,11 @@
+ZIF connector
+
+Adafruit used: Molex 52892-1095
+obsoleted, Mouser suggested: Molex 52892-1033
+footprint compatible!  but Molex now says: New Business Not Supported
+and recommends: Molex 505278-1033, which has a different footprint
+and is a bit cheaper, enough to cover the cost of PCBs at JLC
+
+Oh...  and Sharp recommended Molex: 51441-1093... which is also obsolete.
+replacement recommended is also 505278-1033
+
