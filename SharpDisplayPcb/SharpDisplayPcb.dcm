@@ -1,7 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP LS013B7DH05
-F https://media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/LS013B7DH05.pdf
+$CMP 505278-1033
+D MOLEX - 505278-1033 - FFC / FPC Board Connector, R/A, 0.5 mm, 10 Contacts, Receptacle, Easy-On 505278 Series/002
+F https://www.molex.com/pdm_docs/sd/5052781033_sd.pdf
 $ENDCMP
 #
 #End Doc Library
